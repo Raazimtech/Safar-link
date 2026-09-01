@@ -120,19 +120,6 @@ Safar Link is developed by **Raazim Tech**.
 - WhatsApp: **+252 63 658 1295**
 - Email: **raazimtech@gmail.com**
 
-## Project files
-
-- `index.html` — public Safar Link landing page
-- `styles.css` — responsive visual system, layout and motion
-- `script.js` — navigation and scroll interactions
-- `hero.svg` — product hero visual
-- `safar-screen.svg` — operations dashboard showcase visual
-- `parcel-screen.svg` — parcel tracking showcase visual
-- `icon.svg` — Safar Link product mark
-- `robots.txt` — crawler guidance
-- `sitemap.xml` — public page discovery
-- `404.html` — branded not-found page
-
 ## About Raazim Tech
 
 Raazim Tech builds custom software systems, websites, digital products and UI/UX experiences for businesses and organisations in Somaliland and East Africa.
