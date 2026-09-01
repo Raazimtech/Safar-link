@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://raazimtech.github.io/Safar-link/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://raazimtech.github.io/Safar-link/icon.svg</image:loc>
+      <image:title>Safar Link logo by Raazim Tech</image:title>
+      <image:caption>Safar Link transport operations software logo, created by Raazim Tech.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://raazimtech.github.io/Safar-link/public%20assets%20dashboard.png.webp</image:loc>
+      <image:title>Safar Link transport operations dashboard</image:title>
+      <image:caption>Safar Link bus company operations dashboard by Raazim Tech.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://raazimtech.github.io/Safar-link/public%20assets%20tracking.png.webp</image:loc>
+      <image:title>Safar Link parcel tracking screen</image:title>
+      <image:caption>Safar Link parcel tracking interface by Raazim Tech.</image:caption>
+    </image:image>
   </url>
 </urlset>
